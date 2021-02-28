@@ -14,7 +14,7 @@ Ergänzt werden soll das Ganze noch durch offline Angebote vor Ort zur Unterstü
 
 Social StartUps sind nach der Definition den BMWi = StartUps deren Geschäftstätigkeit den Zweck verfolgt, ein gesellschaftliches oder ökologisches Problem zu lösen und dabei zugleich Gewinne zu erwirtschaften.  
 
-Prototyp Link:
+Prototyp Link (nur mit Anmeldung): https://www.figma.com/file/xGIoryfbHTGri2U4sSyBWn/Smatchport-Prototype?node-id=63%3A2
 
 #Name Team & Mitglieder
 s05 - Smatchport
